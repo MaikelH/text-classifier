@@ -1,0 +1,17 @@
+{
+  "name": "chronos/text-classifier",
+  "description": "A library to do classify text in different categories.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Chronos\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Maikel Hofman",
+      "email": "m.hofman@chronos-technology.nl"
+    }
+  ]
+}
